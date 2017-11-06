@@ -1,2 +1,2 @@
 Projeto Git
-[github.com/kisophi] (http://www.kisophi.com.br)
+[kisophi](http://www.kisophi.com.br)
